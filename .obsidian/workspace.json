@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "d8c6f4d18d7414a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f223ce988d9107d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97ba1997c35fd5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dev → 云原生：学习路线 & 技能图谱.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dev → 云原生：学习路线 & 技能图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "23d64ad470a22b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "9542259ca512c58b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00c5e55cb20396f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70addd719174013c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "258b645046cdde3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73e3225edf528646",
+    "type": "split",
+    "children": [
+      {
+        "id": "227011425a034136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9784d3608549f5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dev → 云原生：学习路线 & 技能图谱.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dev → 云原生：学习路线 & 技能图谱"
+            }
+          },
+          {
+            "id": "cb8206351b9d4f97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dev → 云原生：学习路线 & 技能图谱.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Dev → 云原生：学习路线 & 技能图谱"
+            }
+          },
+          {
+            "id": "bf0341b1e9541f7b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7e080e445a44499b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dev → 云原生：学习路线 & 技能图谱.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Dev → 云原生：学习路线 & 技能图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d97ba1997c35fd5d",
+  "lastOpenFiles": [
+    "Dev → DevOps 整体技能图谱.md",
+    "Dev → 云原生：学习路线 & 技能图谱.md",
+    "阶段0 准备期 - FastAPI & 基础技能回顾.md"
+  ]
+}
