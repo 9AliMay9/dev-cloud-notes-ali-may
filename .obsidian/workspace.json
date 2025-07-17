@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "8f223ce988d9107d",
+        "id": "6be9eb37dae60e5b",
         "type": "tabs",
         "children": [
           {
-            "id": "d97ba1997c35fd5d",
+            "id": "f80f0e3bf8f6a48d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Git 操作速查：新建项目 & 笔记同步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "c6beaa4328886a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vim 剪贴板操作速查.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vim 剪贴板操作速查"
-            }
-          },
-          {
-            "id": "21cf175629024b40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev → 云原生：学习路线 & 技能图谱.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dev → 云原生：学习路线 & 技能图谱"
+              "title": "Git 操作速查：新建项目 & 笔记同步"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#📒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73e3225edf528646",
@@ -198,13 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21cf175629024b40",
+  "active": "70addd719174013c",
   "lastOpenFiles": [
-    "Dev → DevOps 整体技能图谱.md",
+    "Git 操作速查：新建项目 & 笔记同步.md",
+    "README.md",
     "Dev → 云原生：学习路线 & 技能图谱.md",
+    "Dev → DevOps 整体技能图谱.md",
     "常用 curl 命令参数.md",
     "Vim 剪贴板操作速查.md",
-    "README.md",
     "阶段0 准备期 - FastAPI & 基础技能回顾.md"
   ]
 }
