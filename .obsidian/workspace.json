@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6be9eb37dae60e5b",
+        "id": "2a0d9102a7f71eaf",
         "type": "tabs",
         "children": [
           {
-            "id": "f80f0e3bf8f6a48d",
+            "id": "7b8eb37e70f108fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,14 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70addd719174013c",
+  "active": "7b8eb37e70f108fc",
   "lastOpenFiles": [
-    "Git 操作速查：新建项目 & 笔记同步.md",
-    "README.md",
     "Dev → 云原生：学习路线 & 技能图谱.md",
-    "Dev → DevOps 整体技能图谱.md",
-    "常用 curl 命令参数.md",
+    "Linux工具清单+安装命令.md",
+    "Untitled",
+    "阶段0 准备期 - FastAPI & 基础技能回顾.md",
     "Vim 剪贴板操作速查.md",
-    "阶段0 准备期 - FastAPI & 基础技能回顾.md"
+    "Git 操作速查：新建项目 & 笔记同步.md",
+    "常用 curl 命令参数.md",
+    "README.md",
+    "Dev → DevOps 整体技能图谱.md"
   ]
 }

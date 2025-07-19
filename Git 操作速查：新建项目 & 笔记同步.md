@@ -24,6 +24,22 @@ git pull --rebase origin main      # 解决首次连接时远程可能已有 REA
 git push -u origin main            # 设置默认上游并推送
 ```
 
+## ⚙️ Git rebase 遇到 `.gitignore`、`LICENSE`、`README.md` 冲突的快速解决方案
+
+### 1. 删除本地冲突文件
+
+`rm .gitignore LICENSE README.md`
+
+### 2. 告诉 Git 删除已解决
+
+`git add -A`
+
+> `-A` 是 `--all` 的简写，表示包括删除的文件也一起添加到暂存区
+
+### 3. 继续 rebase
+
+ `git rebase --continue`
+
 ---
 
 ## 📖 二、笔记同步
